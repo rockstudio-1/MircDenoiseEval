@@ -1,0 +1,9 @@
+[submodule "TSTNN"]
+	path = TSTNN
+	url = https://github.com/key2miao/TSTNN.git
+[submodule "DeepDenoise"]
+	path = DeepDenoise
+	url = https://github.com/AI4EPS/DeepDenoiser
+[submodule "DeepDenoiser"]
+	path = DeepDenoiser
+	url = https://github.com/AI4EPS/DeepDenoiser

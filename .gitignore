@@ -1,0 +1,6 @@
+data/
+.vscode/
+**/__pycache__/
+EMD/emd_results/
+**/*_results/
+**/checkpoints/
