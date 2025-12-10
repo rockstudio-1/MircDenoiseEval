@@ -4,3 +4,4 @@ data/
 EMD/emd_results/
 **/*_results/
 **/checkpoints/
+.ipynb_checkpoints/
