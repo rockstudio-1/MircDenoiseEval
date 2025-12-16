@@ -46,7 +46,7 @@ pip install torch torchvision torchaudio
 
 ## Methods Overview
 
-This repository includes implementations and evaluations of six denoising methods:
+This repository includes implementations and evaluations of these denoising methods:
 
 ### Traditional Signal Processing Methods
 
@@ -205,4 +205,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [TSTNN](https://github.com/key2miao/TSTNN)
 - [PyEMD](https://github.com/laszukdawid/PyEMD) for EMD implementation
 - [PyWavelets](https://github.com/PyWavelets/pywt) for wavelet transform
+
 
