@@ -190,15 +190,14 @@ python AE/train.py \
 If you find this repository or the DMSD method useful in your research, please cite our paper:
 
 ```bibtex
-@article{XU2026104374,
+@article{xu2026dual,
   title = {A dual-condition diffusion-based microseismic signals denoiser for real-world engineering noise},
+  author = {Xu, Haoran and Tang, Shibin and Mao, Yanjun},
   journal = {Advanced Engineering Informatics},
   volume = {71},
   pages = {104374},
   year = {2026},
-  issn = {1474-0346},
-  doi = {[https://doi.org/10.1016/j.aei.2025.104374](https://doi.org/10.1016/j.aei.2025.104374)},
-  author = {Haoran Xu and Shibin Tang and Yanjun Mao}
+  doi = {10.1016/j.aei.2025.104374}
 }
 ```
 ## License
