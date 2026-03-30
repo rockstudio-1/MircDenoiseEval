@@ -185,13 +185,21 @@ python AE/train.py \
 
 
 
-### Related Publications
+## Citation
 
-- DeepDenoise: Zhu, W., Mousavi, S. M., & Beroza, G. C. (2018). Seismic Signal Denoising and Decomposition Using Deep Neural Networks. arXiv:1811.02695.
-- TSTNN: Wang, K., He, B., & Zhu, W. P. (2021). TSTNN: Two-Stage Transformer based Neural Network for Speech Enhancement in Time Domain. ICASSP 2021.
-- VMD: Dragomiretskiy, K., & Zosso, D. (2014). Variational Mode Decomposition. IEEE Trans. on Signal Processing, 62(3), 531-544.
+If you find this repository or the DMSD method useful in your research, please cite our paper:
 
----
+```bibtex
+@article{XU2026104374,
+  title = {A dual-condition diffusion-based microseismic signals denoiser for real-world engineering noise},
+  journal = {Advanced Engineering Informatics},
+  volume = {71},
+  pages = {104374},
+  year = {2026},
+  issn = {1474-0346},
+  doi = {[https://doi.org/10.1016/j.aei.2025.104374](https://doi.org/10.1016/j.aei.2025.104374)},
+  author = {Haoran Xu and Shibin Tang and Yanjun Mao}
+}
 
 ## License
 
